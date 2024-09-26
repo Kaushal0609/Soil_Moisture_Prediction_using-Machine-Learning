@@ -62,7 +62,7 @@ The model can be trained using algorithms like Random Forest, Decision Trees, or
 Parameters for the model can be adjusted in the config.json file or passed via command-line arguments.
 The project uses cross-validation and grid search to optimize hyperparameters.
 Model Evaluation
-The model's performance is evaluated using metrics such as:
+The model's performance is evaluated using metrics such as: 
 
 Accuracy
 Precision
